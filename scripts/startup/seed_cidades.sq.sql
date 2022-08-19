@@ -1,0 +1,10 @@
+INSERT INTO municipio (nome) VALUES ('Linhares'),
+('Colatina'),
+('Dores do Rio Preto'),
+('Ponto Belo'),
+('Ibitirama'),
+('Atílio Vivácqua'),
+('Itapemirim'),
+('Apiacá'),
+('Laranja da Terra'),
+('Brejetuba')
